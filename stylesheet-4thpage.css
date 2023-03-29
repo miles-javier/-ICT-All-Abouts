@@ -1,0 +1,114 @@
+.container{
+  
+    width: 80%;
+    margin:	80px auto;	
+
+}
+
+.container h1{
+	padding:20px ;
+	color: #000000;
+	font-size: 60px;
+	text-align: center;	
+	color:#f08686;
+	
+}
+
+.head-one h3{
+	
+	width: 83%;
+	margin: auto;
+	position: relative;
+	border-radius: 6px;
+	font-size: 30px;
+	top:-50px;
+	right:400px;
+	color:;
+}
+
+.head-one h6{
+	width: 83%;
+	margin: auto;
+	position: relative;
+	border-radius: 6px;
+	font-size: 25px;
+	top: 0px;
+	right: 400px;
+	color:;
+}
+
+.head-two h3{
+	
+	width: 83%;
+	margin: auto	;
+	position: relative;
+	border-radius: 6px;
+	font-size: 34px;
+	top:-115px;
+	right:-400px;
+	color:;
+}
+
+.head-two h6{
+	width: 83%;
+	margin: auto;
+	position: relative;
+	border-radius: 6px;
+	font-size: 25px;
+	top: -65px;
+	right:-400px;
+	color:;
+}
+
+.head-three h3{
+	
+	width: 83%;
+	margin: auto;
+	position: relative;
+	border-radius: 6px;
+	font-size: 34px;
+	top:40px;
+	right:400px;
+	color:;
+}
+
+.head-three h6{
+	width: 83%;
+	margin: auto;
+	position: relative;
+	border-radius: 6px;
+	font-size: 25px;
+	top:100px;
+	right:400px;
+	color:;
+}
+
+.head-four h3{
+	
+	width: 83%;
+	margin: auto;
+	position: relative;
+	border-radius: 6px;
+	font-size: 34px;
+	top:-30px;
+	right: -400px;
+	color:;
+	
+}
+
+.head-four h6{
+	width: 83%;
+	margin: auto;
+	position: relative;
+	border-radius: 6px;
+	font-size: 25px;
+	top:35px;
+	right: -400px;
+	color:;
+	
+	padding-bottom:	100px 
+}
+
+
+
+	
